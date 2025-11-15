@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <strong>Kartik Pagey</strong> 👋</h1>
 <p align="center"><strong>Software Engineer • Distributed Systems • Cloud • AI Engineering</strong></p>
 <p align="center">I build scalable backend systems, cloud-native platforms, and AI-assisted developer workflows. I value clean design, performance, and reliability.</p>
----
+
 # 🚀 About Me
 
 - 🎓 MS in Data Science @ Stony Brook University  
@@ -9,8 +9,6 @@
 - ☁️ Focus: Distributed Systems, Cloud Infra, Backend Engineering  
 - 🤖 Interested in AI-powered automation & intelligent systems  
 - 🛠 Full lifecycle ownership → Design → Infra → Deploy → Monitor  
-
----
 
 # 🧠 Core Skills
 
@@ -52,9 +50,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 </p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bugfree-kartik&show_icons=true&theme=light#gh-light-mode-only" height="170">
   <img src="https://github-readme-stats.vercel.app/api?username=bugfree-kartik&show_icons=true&theme=dark#gh-dark-mode-only" height="170">
@@ -70,11 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugfree-kartik&layout=compact&theme=dark#gh-dark-mode-only" height="170">
 </p>
 
----
-
-# 🎨 Custom Hero Section (Text Version)
-
-```text
 ██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗    
 ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    
 █████╔╝ ███████║██████╔╝   ██║   ██║█████╔╝     
