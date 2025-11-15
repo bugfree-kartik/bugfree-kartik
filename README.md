@@ -7,7 +7,8 @@
 - 💼 3+ years building production-grade backend systems (PwC, Cognizant)  
 - ☁️ Focus: Distributed Systems, Cloud Infra, Backend Engineering  
 - 🤖 Interested in AI-powered automation & intelligent systems  
-- 🛠 Full lifecycle ownership → Design → Infra → Deploy → Monitor  
+- 🛠 Full lifecycle ownership → Design → Infra → Deploy → Monitor
+- 📫 How to reach me kartik.pagey.dev@gmail.com
 
 # 🧠 Core Skills
 ### **Languages**
