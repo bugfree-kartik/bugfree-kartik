@@ -12,7 +12,7 @@
 
 ---
 
-# 🧠 Core Skills (with Badges)
+# 🧠 Core Skills
 
 ### **Languages**
 <p>
@@ -54,8 +54,6 @@
 </p>
 
 ---
-
-# 📈 GitHub Stats (Dark + Light Mode)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bugfree-kartik&show_icons=true&theme=light#gh-light-mode-only" height="170">
