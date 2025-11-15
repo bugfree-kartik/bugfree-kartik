@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!-- 🎨 CUSTOM BANNER -->
-<p align="center">
-  <img src="https://github.com/bugfree-kartik/bugfree-kartik/blob/main/assets/banner-light.png#gh-light-mode-only" width="100%" alt="banner-light">
-  <img src="https://github.com/bugfree-kartik/bugfree-kartik/blob/main/assets/banner-dark.png#gh-dark-mode-only" width="100%" alt="banner-dark">
-</p>
 <h1 align="center">Hi, I'm <strong>Kartik Pagey</strong> 👋</h1>
 <p align="center"><strong>Software Engineer • Distributed Systems • Cloud • AI Engineering</strong></p>
 <p align="center">I build scalable backend systems, cloud-native platforms, and AI-assisted developer workflows. I value clean design, performance, and reliability.</p>
