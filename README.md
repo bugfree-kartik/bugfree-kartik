@@ -2,6 +2,7 @@
 <p align="center"><strong>Software Engineer • Distributed Systems • Cloud • AI & ML Engineering</strong></p>
 <p align="center">I build scalable backend systems, cloud-native platforms, and AI-assisted developer workflows.</p>
 <p align="center">https://kartikcodes-portfolio.vercel.app</p>
+
 # 🚀 About Me
 - 🎓 MS in Data Science @ Stony Brook University  
 - 💼 3+ years building production-grade backend systems (PwC, Cognizant)  
